@@ -47,17 +47,17 @@ The pipeline follows a structured data engineering workflow:
 ## 📊 Key Visualisations
 
 ### 🌐 Global Renewable Energy Share (2024)
-![Renewable Map](your-map-image.png)
+![Renewable Map](.databricks/public/global.png)
 
 ---
 
 ### 📈 Regional CO₂ Emissions Trends
-![Emissions Trend](your-trend-image.png)
+![Emissions Trend](.databricks/public/area.png)
 
 ---
 
 ### 🔍 Renewable Energy vs CO₂ Emissions
-![Scatter Plot](your-scatter-image.png)
+![Scatter Plot](.databricks/public/scatter.png)
 
 ---
 
@@ -84,3 +84,37 @@ The pipeline follows a structured data engineering workflow:
 ---
 
 ## 📂 Project Structure
+├── notebook.ipynb
+
+├── README.md
+
+├── images/
+
+│ ├── renewable_map.png
+
+│ ├── emissions_trend.png
+
+│ ├── scatter_plot.png
+
+
+---
+
+## 📎 How to Run
+
+1. Upload dataset to Databricks  
+2. Run notebook cells sequentially  
+3. Generate transformed dataset and visualisations  
+
+---
+
+## 🌱 Future Improvements
+
+- Add real-time data pipeline (streaming)
+- Integrate energy forecasting models
+- Expand analysis to include policy and economic indicators
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates how data engineering and analytics can be combined to understand global energy trends and support the transition to sustainable energy systems.
