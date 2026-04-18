@@ -47,17 +47,17 @@ The pipeline follows a structured data engineering workflow:
 ## 📊 Key Visualisations
 
 ### 🌐 Global Renewable Energy Share (2024)
-![Renewable Map](your-map-image.png)
+![Renewable Map](.databricks/public/global.png)
 
 ---
 
 ### 📈 Regional CO₂ Emissions Trends
-![Emissions Trend](your-trend-image.png)
+![Emissions Trend](.databricks/public/area.png)
 
 ---
 
 ### 🔍 Renewable Energy vs CO₂ Emissions
-![Scatter Plot](your-scatter-image.png)
+![Scatter Plot](.databricks/public/scatter.png)
 
 ---
 
