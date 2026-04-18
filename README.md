@@ -84,3 +84,37 @@ The pipeline follows a structured data engineering workflow:
 ---
 
 ## 📂 Project Structure
+├── notebook.ipynb
+
+├── README.md
+
+├── images/
+
+│ ├── renewable_map.png
+
+│ ├── emissions_trend.png
+
+│ ├── scatter_plot.png
+
+
+---
+
+## 📎 How to Run
+
+1. Upload dataset to Databricks  
+2. Run notebook cells sequentially  
+3. Generate transformed dataset and visualisations  
+
+---
+
+## 🌱 Future Improvements
+
+- Add real-time data pipeline (streaming)
+- Integrate energy forecasting models
+- Expand analysis to include policy and economic indicators
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates how data engineering and analytics can be combined to understand global energy trends and support the transition to sustainable energy systems.
